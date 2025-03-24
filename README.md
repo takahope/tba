@@ -1,4 +1,4 @@
-# Taiwan Human Biobank Literature Analysis Tool
+# Literature Analysis Tool
 
 A comprehensive tool for downloading, analyzing, and visualizing scientific literature related to the Taiwan Human Biobank.
 
